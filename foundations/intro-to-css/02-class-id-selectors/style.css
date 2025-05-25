@@ -1,0 +1,16 @@
+.pink{
+    background-color: rgb(231, 185, 192);
+    font-family: Verdana, dejavu sans, sans-serif;
+}
+#blue{
+    color: rgb(23, 23, 223);
+    font-size: 36px
+}
+.pink.three{
+    font-size: 24px;
+}
+#green{
+    background-color: rgb(155, 242, 155);
+    font-size: 24px;
+    font-weight: bold;
+}
